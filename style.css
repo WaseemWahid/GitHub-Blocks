@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 10px;
+}
+.container{
+    background-color: floralwhite;
+    width: 800px;
+    padding: 10px;
+    
+}
+.topbox{
+    width: auto;
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.box1{
+    background-color: lightskyblue;
+    width: auto;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.box2{
+    background-color: lightcoral;
+    width: auto;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.box3{
+    background-color: lightslategray;
+    width: auto;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.box4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-small;
+    color: darkgray;
+    background-color: lightgoldenrodyellow;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    
+}
